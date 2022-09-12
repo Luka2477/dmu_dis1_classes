@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day03_ApplicationLayer/Day03_ApplicationLayer.iml" filepath="$PROJECT_DIR$/Day03_ApplicationLayer/Day03_ApplicationLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day04_TCP-UDP/Day04_TCP-UDP.iml" filepath="$PROJECT_DIR$/Day04_TCP-UDP/Day04_TCP-UDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06_TransportLayer/Day06_TransportLayer.iml" filepath="$PROJECT_DIR$/Day06_TransportLayer/Day06_TransportLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dmu_dis1_classes.iml" filepath="$PROJECT_DIR$/.idea/dmu_dis1_classes.iml" />
+    </modules>
+  </component>
+</project>
