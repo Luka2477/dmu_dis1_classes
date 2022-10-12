@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Day03_ApplicationLayer/Day03_ApplicationLayer.iml" filepath="$PROJECT_DIR$/Day03_ApplicationLayer/Day03_ApplicationLayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day04_TCP-UDP/Day04_TCP-UDP.iml" filepath="$PROJECT_DIR$/Day04_TCP-UDP/Day04_TCP-UDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day06_TransportLayer/Day06_TransportLayer.iml" filepath="$PROJECT_DIR$/Day06_TransportLayer/Day06_TransportLayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day13_IOT/Day13_IOT.iml" filepath="$PROJECT_DIR$/Day13_IOT/Day13_IOT.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dmu_dis1_classes.iml" filepath="$PROJECT_DIR$/.idea/dmu_dis1_classes.iml" />
     </modules>
   </component>
